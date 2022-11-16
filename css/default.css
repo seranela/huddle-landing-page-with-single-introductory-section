@@ -1,6 +1,7 @@
 :root {
   --color-primary-violet: hsl(257, 40%, 49%);
   --color-primary-soft-magenta: hsl(300, 69%, 71%);
+  --color-primary-soft-magenta-alt: hsl(300, 56%, 49%);
   --font-family-heading: 'Poppins', sans-serif; /* 400, 600 */
   --font-family-body: 'Open Sans', sans-serif; /* 400 */
 }
@@ -81,7 +82,7 @@ p {
 }
 
 .link-button:hover {
-  background-color: var(--color-primary-soft-magenta);
+  background-color: var(--color-primary-soft-magenta-alt);
   color: white;
 }
 
@@ -118,7 +119,7 @@ footer {
 }
 
 .social-link:hover {
-  border: 2px solid var(--color-primary-soft-magenta);
+  border: 2px solid var(--color-primary-soft-magenta-alt);
 }
 
 .social-link:hover .social-icon-path {

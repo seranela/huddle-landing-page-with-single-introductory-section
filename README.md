@@ -10,7 +10,6 @@ This is a solution to the [Huddle landing page with single introductory section 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -24,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-2z7sNRiO8B](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-2z7sNRiO8B)
+- Live Site URL: [https://seranela.github.io/huddle-landing-page-with-single-introductory-section/](https://seranela.github.io/huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
@@ -34,15 +33,12 @@ Users should be able to:
 - HTML5
 - CSS
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
 
-
-### Continued development
-
+Chrome handles certain flex sizing values differently than Firefox. Good idea to check in both browsers and sizing them to see the impact.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@seranela](https://www.frontendmentor.io/profile/seranela)
